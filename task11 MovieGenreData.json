@@ -1,0 +1,22 @@
+[
+    {
+        "Fantasy": 27,
+        "Sci-fi": 24,
+        "Adventure": 56,
+        "thriller": 17,
+        "family": 15,
+        "Action": 10,
+        "Animation": 12,
+        "Comedy": 12,
+        "Music": 1,
+        "Drama": 21,
+        "War": 2,
+        "Horror": 2,
+        "Western": 2,
+        "Biography": 1,
+        "Musical": 2,
+        "Crime": 3,
+        "fitness": 1,
+        "History": 1
+    }
+]
